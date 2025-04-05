@@ -10,7 +10,7 @@
     "url": "https://github.com/pegasystems/constellation-ui-gallery.git"
   },
   "license": "Apache-2.0",
-  "author": "Pegasystems",
+  "author": "Pegasystems1",
   "main": "src/index.js",
   "scripts": {
     "start": "storybook dev --port 6006",
